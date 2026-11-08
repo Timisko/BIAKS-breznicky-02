@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+server/generated/
+server/database.sqlite*
+server/unsafe.sqlite*
+server/safe.sqlite*
+server/orm.sqlite*
